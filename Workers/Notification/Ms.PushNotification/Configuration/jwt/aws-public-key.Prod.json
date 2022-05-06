@@ -1,0 +1,22 @@
+﻿{
+  "client_id": "6v4j6t4qmuvnd4mnftec3uk7bt",
+  "issuer": "https://cognito-idp.ap-southeast-1.amazonaws.com/ap-southeast-1_PT5Vaq8Cn",
+  "keys": [
+    {
+      "alg": "RS256",
+      "e": "AQAB",
+      "kid": "xi4NtcQ5CaruU0LhgU5ePejI3Y65jYWErgRWjDVD/3k=",
+      "kty": "RSA",
+      "n": "tJaVwltkeyyBwSE-R4veVM8mkez0n445ViMtTZ3gmnXEHfU_ps1JUBNFZivAf5EpfauFxW7gbENT7Usi8pd0EqhwifoN7x1l2MwEjaQACUML37GiRjp3n7PmM8GhkTQZ5BEjnpDn8qPrC-OwBGzvzsi-AqfzsimnycqUu4gBEpn395FQOPVtarBGydjJM9t4DUPDS4Mcor4QQ_dWM-TRTbj0_7BSLdGKg2MiqVHNYg4uMCGBqucwyULUHc5gZ_tNKklgO598O3HhI1XRCRLpP48CvbCmUZ2m4Hq1nn5Mhcg6_NsZWNVEw2U3vbJLh8rNzfsF9P2gzx2WRkYXqY4C9w",
+      "use": "sig"
+    },
+    {
+      "alg": "RS256",
+      "e": "AQAB",
+      "kid": "JpkWK2Ss9nN49OtJb4eG4uRkXzqFblS3yNYhnm15Z4U=",
+      "kty": "RSA",
+      "n": "hWZdkiFGYFBbeTZrwwLzoTReHxFsEHF72oZjk99Z4pSknOaSThUhXIiKAqfqYbyUrNc4rubbE2UebyukG33CH5RVtx4GTb7gcyyavEpdhbWPfI7_gRxJo80DcR-qmwQcIxeP3FxiMMFzzSDsZMgvg_ycUTpuHW0Xg851h7x0ghPALrnXYfIb_pLXnTC0Cfl26qVEsIEDP1AtgvUdN1Oe8_4RapkL-OSwG4uyXNPjPCc6wdpTSig03T80Q8YthENiyMbl5OLr5z3ZLtmXF1iMPj9qla-WykOvfwgn3UX3MClasHV1QSMCreJjjH0SQcreawNxWxmdqcg-DqnfFHxPOQ",
+      "use": "sig"
+    }
+  ]
+}

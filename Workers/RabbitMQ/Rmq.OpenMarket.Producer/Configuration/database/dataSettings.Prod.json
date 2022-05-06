@@ -1,0 +1,26 @@
+{
+  /* Encrypted properties MUST stay in this sorting in json */
+  "EncryptedDataConnectionString": "",
+  "Encrypted": true,
+
+  /* MsSql Setting DataConnectionString format => Data Source={ServerIP};Initial Catalog={DatabaseName};Integrated Security=False;Persist Security Info=False;User ID={UserID};Password={Password} */
+  "DataProvider": "sqlserver",
+  "DataConnectionString": "",
+  "SqlDriver": "MsSql2017",
+
+  /* PostgreSQL Setting DataConnectionString format => Server={ServerIP};Port=5432;Database={DatabaseName};User Id={UserID};Password={Password}; */
+  //"DataProvider": "Npgsql Data Provider",
+  //"DataConnectionString": "",
+  //"SqlDriver": "PostgreSqlStandard",
+
+  /* Others Setting */
+  "RawDataSettings": {},
+  "Property": {
+    "CommandTimeout": "180",
+    "BatchSize": "30",
+    "BatchOrderInsert": "true",
+    "BatchOrderUpdate": "true",
+    "ShowSql": "false",
+    "FormatSql": "true"
+  }
+}

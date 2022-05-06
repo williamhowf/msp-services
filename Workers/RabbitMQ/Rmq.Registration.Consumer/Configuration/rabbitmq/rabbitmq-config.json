@@ -1,0 +1,17 @@
+{
+  "HostName": "10.30.221.124",
+  "UserName": "admin",
+  "Password": "admin",
+  "VirtualHost": "/grc",
+  "Port": 5672,
+  "Queue": "grc.ms.queue.acount-registration",
+  "Exchange": "grc.ms.exchange.acount-registration-completed",
+  "AutoAck": false,
+  "ValidateToken": true,
+  "MSP_CheckExpiredToken": false,
+  "CheckRabbitMQTimestamp": false,
+  "Connections": 1,
+  "Channels": 3,
+  "ThreadSleepTimeSec": 10,
+  "Debug": false
+}

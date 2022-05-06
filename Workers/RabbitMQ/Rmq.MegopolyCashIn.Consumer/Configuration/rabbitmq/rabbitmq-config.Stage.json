@@ -1,0 +1,17 @@
+{
+  "HostName": "grc-rabbitmq.stage.globalrewardscity.com",
+  "UserName": "ms",
+  "Password": "ms1",
+  "VirtualHost": "/grc",
+  "Port": 5672,
+  "Queue": "grc.ms.queue.cashout",
+  "Exchange": "grc.ms.exchange.cashout-completed",
+  "AutoAck": false,
+  "ValidateToken": true,
+  "MSP_CheckExpiredToken": false,
+  "CheckRabbitMQTimestamp": true,
+  "Connections": 1,
+  "Channels": 3,
+  "ThreadSleepTimeSec": 10,
+  "Debug": false
+}

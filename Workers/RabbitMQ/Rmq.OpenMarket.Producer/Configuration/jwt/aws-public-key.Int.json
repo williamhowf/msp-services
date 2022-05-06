@@ -1,0 +1,40 @@
+﻿{
+  "client_id": "44rji1bebhblb6r5us23f5n9f3",
+  "issuer": "https://cognito-idp.eu-west-2.amazonaws.com/eu-west-2_AZRLg53BR",
+  "keys": [
+    {
+      "alg": "RS256",
+      "e": "AQAB",
+      "kid": "qrVoytohqOU/2RaF6JbvilZA0EfXIJH5lsx7uknwiWg=",
+      "kty": "RSA",
+      "n": "gObqqSKgPDr74Nwmog5nOSyrgFlEpZUX8Kidm3_AskYlAo0aBHPoYnohG0aWeUsg11hFBRsaEpXGl0l3VtwjdCaELjm-raUiOunKNz6w_5ol18ibAzGNe6RPNFOMAVhjor_J-DqRKPF15W0wnC3QIZgw_crNBolY7gH5xLgYGPC-ciy23U8XcWPHM4jZdsbHeH6Q0aKgGkn4c5fqVm2FJmo0whfq35qsaDDKDXGyPnLG-_r-EI4lSuEv1gCvgrXTJcbwahlnFdVEE62HazUfZhF8FR1lOSCk1sEKeEQDmJfrZ1sSKXLMj8aEJtTObHcQEmyW-WSINim5fOBA20BteQ",
+      "use": "sig"
+    },
+    {
+      "alg": "RS256",
+      "e": "AQAB",
+      "kid": "1nj2v5mxaxeM9vbx9Lc+tnxRpW8SPwtwv1ufyG+cttI=",
+      "kty": "RSA",
+      "n": "m5mwjdVPSarIaaLofdXzfRCr0G0tZ4PTq5wrilwfCKMfkAPP4q8jLwkAJ1NZYflkatemYQnOY9-U8t3Zb2QIxGRZCgW2C6yT3P02u_G1zu51SPpabTeSUJwO_i2THywf4Wbz2OzYal4vc1cZXkJNqjVPlx9RjkrfKN9YRx1eGsZ-jQDhUecl5IfclAYRGpQj6nLulCmeepQTRmBxKu23D9E34jUSJQkqWyHkEWLHyjNiBgp-TtOvlsmdt5tDoGrXPiM4WKhyytAul-Lh1JwTXcLR51xiTPpQIDw3dN6hVn1TKJvbLq_9vPvBWDwvMS_pJp4vsOEDxUXfhjWC6G_erQ",
+      "use": "sig"
+    },
+    // new INT key #20201102 \/
+    {
+      "alg": "RS256",
+      "e": "AQAB",
+      "kid": "jgnCMd1IGZ922z7KSh6atkdAH3qxcc7m0Dfck/zer8g=",
+      "kty": "RSA",
+      "n": "lkhUtOxXZzXolcLVpSQUb7Vv4BXR3686oqW0rEt5wKMBuUrReAeW7Mv6x5GfzWYzGwRBhwrchKrbiEn_x66mA1pWA531W9F8GMcQU5dKFf14_xH4dkEyWIBQUEFHDlJ9p2SwTyR-eX4l-BG2TYDnbdf-uJQ9AV5SFFzRQnNZbOrybsKTUEC0E1kajzFuipsbjhXJIQ1BFDgoTIYiZwWan8VEgg4qcgiqAKLAAw_KWQ4U6ix_7vtHnoE808kUSQIm70twmbYK01eJykTRXlrDK3cWmBrPByw4ideQ7uQG1UFpdqFoU11Zt7OqxjQA9-HHfoH50VwDXZVykEtW0XIl2w",
+      "use": "sig"
+    },
+    {
+      "alg": "RS256",
+      "e": "AQAB",
+      "kid": "sw5Mr844AY5Kl8WGmhFcuMQ0x1fkxtndIn4dmwIngXE=",
+      "kty": "RSA",
+      "n": "ncZCiS0uw6Et7EHI65QJEAEzd-z8XaqssBlzG9qdje7voAtW9a-phSA78bIrbIx9qMgssnosdUO7szo_PH4BwXg4Z7pP5DtAWxABvk0ocirivtz8oAsWDrMRnzaBFbsh8-_Gx6Nw4bo42iJiw3RWUvrVQqRj-YTdVR4m9BYWTA1DVkFxAFmQ2m4SWrKEpimtTL2gz7-dJh8h9enYk9ND-g8wTiYTkbYNZaGlN9HS5HUfb-L90-FEMhRtvdW0-7wzRmV_R2E0zK4NuOjmcSfnx5Lp60h6Vy2W-I_kEFHJ4MOjTBPm445LiJ2ZEA3L07ynfVItOmfVr4EV9N_R4ReEVQ",
+      "use": "sig"
+    }
+    // new INT key #20201102 /\
+  ]
+}

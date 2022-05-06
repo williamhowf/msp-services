@@ -1,0 +1,17 @@
+{
+  "HostName": "prod-grc-rabbitmq.globalrewardscity.com",
+  "UserName": "ms",
+  "Password": "PR0dGrc&MsPaSSwD7!",
+  "VirtualHost": "/grc",
+  "Port": 5672,
+  "Queue": "grc.ms.queue.personal-reward-completed",
+  "Exchange": "grc.ms.exchange.personal-reward",
+  "AutoAck": false,
+  "ValidateToken": true,
+  "MSP_CheckExpiredToken": false,
+  "CheckRabbitMQTimestamp": true,
+  "Connections": 1,
+  "Channels": 3,
+  "ThreadSleepTimeSec": 10,
+  "Debug": false
+}

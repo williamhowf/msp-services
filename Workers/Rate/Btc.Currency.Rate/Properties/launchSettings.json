@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "Btc.Currency.Rate": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

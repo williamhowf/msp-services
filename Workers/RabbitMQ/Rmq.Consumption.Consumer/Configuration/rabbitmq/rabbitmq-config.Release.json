@@ -1,0 +1,17 @@
+{
+  "HostName": "ms-int-rabbitmq.ms-platform.com",
+  "UserName": "ms",
+  "Password": "ms1",
+  "VirtualHost": "/grc-qa",
+  "Port": 5672,
+  "Queue": "grc.ms.queue.reward",
+  "Exchange": "grc.ms.exchange.reward-completed",
+  "AutoAck": false,
+  "ValidateToken": false,
+  "MSP_CheckExpiredToken": false,
+  "CheckRabbitMQTimestamp": false,
+  "Connections": 2,
+  "Channels": 3,
+  "ThreadSleepTimeSec": 10,
+  "Debug": false
+}

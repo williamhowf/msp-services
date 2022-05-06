@@ -1,0 +1,26 @@
+{
+  /* Encrypted properties MUST stay in this sorting in json */
+  "EncryptedDataConnectionString": "8tDCOtkgvT8CsUf7FjXRylC0otDn/PqtXlekItxYCpYr3cFfn9qa/opE3VMRGUotHkrxqbCRnuAyMz44jwonec4kbECNhUNBuXhloQc3ZCqAoHFLDYhvOTtYg1khINvmbUTGs8jsP5OxGy1Vjbwy0m+kpuVhf7eOQCsHON+7h/IBEEyRXEs005JEBstDs5ccW2Oa3N5cGdpLgOd3eJaAEGMgafjgycX9SlXOvw5Y35QoAcvB/VXKgRplJw5q9+2Y8prddjVWOCbnhQTx9Jp31A==",
+  "Encrypted": true,
+
+  /* MsSql Setting DataConnectionString format => Data Source={ServerIP};Initial Catalog={DatabaseName};Integrated Security=False;Persist Security Info=False;User ID={UserID};Password={Password} */
+  "DataProvider": "sqlserver",
+  "DataConnectionString": "",
+  "SqlDriver": "MsSql2017",
+
+  /* PostgreSQL Setting DataConnectionString format => Server={ServerIP};Port=5432;Database={DatabaseName};User Id={UserID};Password={Password}; */
+  //"DataProvider": "Npgsql Data Provider",
+  //"DataConnectionString": "",
+  //"SqlDriver": "PostgreSqlStandard",
+
+  /* Others Setting */
+  "RawDataSettings": {},
+  "Property": {
+    "CommandTimeout": "180",
+    "BatchSize": "30",
+    "BatchOrderInsert": "true",
+    "BatchOrderUpdate": "true",
+    "ShowSql": "false",
+    "FormatSql": "true"
+  }
+}
